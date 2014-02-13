@@ -1,0 +1,1517 @@
+20:29:50,492 DEBUG TasksController:128 - ThreadExecuter started.
+20:29:50,492 DEBUG TasksController:81 - New Task added to the queue.
+20:29:50,498 DEBUG TasksController:145 - Task "Task to mine association rules from source API" inserted in the pool.
+20:29:50,499 DEBUG AssociationRulesMine:72 - Mining association rules with algorithm weka.associations.FPGrowth
+20:29:50,893 DEBUG AssociationRulesMine:78 - Number of instances: 6
+20:29:50,893 DEBUG AssociationRulesMine:79 - Number of attributes: 3
+20:29:50,904 DEBUG AssociationRulesMine:100 - Building Associations with params: [-P, 2, -I, 4, -N, 2147483647, -T, 0, -C, 0.75, -D, 0.05, -U, 1.0, -M, 0.8333333333333333, -S]
+20:29:51,047 DEBUG AssociationRulesMine:113 - Build finished! Building model.
+20:29:51,051 DEBUG AssociationRulesMine:120 - Number of rules discovered: 12
+20:29:51,113 DEBUG AssociationRulesMine:199 - Asociation rules mining finished!
+20:29:51,499  INFO TasksController:61 - Threads controller ended.
+20:29:52,499 DEBUG TasksController:154 - ThreadExecuter finished.
+20:29:52,501  INFO TasksControllerHook:18 - Shutdown Hook called
+20:29:52,501  INFO TasksController:61 - Threads controller ended.
+20:43:47,285 DEBUG TasksController:128 - ThreadExecuter started.
+20:43:47,285 DEBUG TasksController:81 - New Task added to the queue.
+20:43:47,289 DEBUG TasksController:145 - Task "Task to mine association rules from source API" inserted in the pool.
+20:43:47,289 DEBUG AssociationRulesMine:72 - Mining association rules with algorithm weka.associations.FPGrowth
+20:43:47,644 DEBUG AssociationRulesMine:78 - Number of instances: 6
+20:43:47,644 DEBUG AssociationRulesMine:79 - Number of attributes: 3
+20:43:47,660 DEBUG AssociationRulesMine:100 - Building Associations with params: [-P, 2, -I, 4, -N, 2147483647, -T, 0, -C, 0.75, -D, 0.05, -U, 1.0, -M, 0.8333333333333333, -S]
+20:43:47,796 DEBUG AssociationRulesMine:113 - Build finished! Building model.
+20:43:47,799 DEBUG AssociationRulesMine:120 - Number of rules discovered: 12
+20:43:47,891 DEBUG AssociationRulesMine:199 - Asociation rules mining finished!
+20:43:48,299 DEBUG TasksController:81 - New Task added to the queue.
+20:43:49,291 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Nov 23, 2013 8:43:47 PM." inserted in the pool.
+20:43:50,856 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,857 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,860 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,860 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,866 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,866 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,869 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,869 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,878 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,887 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,891 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,892 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,898 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,899 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,902 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,903 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,906 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,906 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,909 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,909 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,937 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,942 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,946 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,946 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,955 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,959 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,963 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,964 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,967 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,968 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,971 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,971 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,974 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,975 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,978 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,979 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,982 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,983 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:50,986 DEBUG AssociationsRecommender:59 - Making recommended sets
+20:43:50,986 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+20:43:51,300  INFO TasksController:61 - Threads controller ended.
+20:43:53,291 DEBUG TasksController:154 - ThreadExecuter finished.
+20:43:53,292  INFO TasksControllerHook:18 - Shutdown Hook called
+20:43:53,292  INFO TasksController:61 - Threads controller ended.
+21:27:39,473 DEBUG TasksController:128 - ThreadExecuter started.
+21:27:39,473 DEBUG TasksController:81 - New Task added to the queue.
+21:27:39,476 DEBUG TasksController:145 - Task "CBSoftAPI API analyze." inserted in the pool.
+21:27:39,479  INFO APIAnalyzerTask:52 - The analyze of the API CBSoftAPI was started.
+21:27:40,169 DEBUG APIAnalyzer:129 - Analysing the source files on directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI
+21:27:41,102 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Credencial.java
+21:27:41,137 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Comunicador.java
+21:27:41,257 DEBUG APIAnalyzer:147 - Analyse of source code files in the directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI finished
+21:27:41,257 DEBUG APIAnalyzerTask:66 - Persisting CBSoftAPI API data.
+21:27:43,061  INFO APIAnalyzerTask:70 - API CBSoftAPI analyzed.
+21:27:43,477 DEBUG ProjectAnalyzerUtil:274 - Project [id=1, name=CBSoftAPI] API analyzed and persisted.
+21:27:43,496 DEBUG ProjectAnalyzerUtil:143 - Building files using the defaults builders.
+21:27:43,896 DEBUG ProjectAnalyzerUtil:148 - Building with 'Maven Dependency Downloader'
+21:27:43,897 DEBUG ProjectAnalyzerUtil:150 - Maven Dependency Downloader worked!
+21:27:43,898 DEBUG ProjectAnalyzerUtil:148 - Building with 'Android AAPT and AIDL Builder'
+21:27:43,900 DEBUG ProjectAnalyzerUtil:150 - Android AAPT and AIDL Builder worked!
+21:27:43,902 DEBUG ProjectAnalyzerUtil:159 - Processing the client WebClient
+21:27:43,912 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient
+21:27:43,974 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/package-info.java
+21:27:43,999 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/MainWeb.java
+21:27:44,285 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient were analyzed.
+21:27:44,360 DEBUG ProjectAnalyzerUtil:195 - Client Project [id=2, name=WebClient] analyzed and persisted.
+21:27:44,364 DEBUG ProjectAnalyzerUtil:143 - Building files using the defaults builders.
+21:27:44,450 DEBUG ProjectAnalyzerUtil:148 - Building with 'Maven Dependency Downloader'
+21:27:44,451 DEBUG ProjectAnalyzerUtil:150 - Maven Dependency Downloader worked!
+21:27:44,452 DEBUG ProjectAnalyzerUtil:148 - Building with 'Android AAPT and AIDL Builder'
+21:27:44,453 DEBUG ProjectAnalyzerUtil:150 - Android AAPT and AIDL Builder worked!
+21:27:44,453 DEBUG ProjectAnalyzerUtil:159 - Processing the client AndroidClient
+21:27:44,457 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient
+21:27:44,516 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/MainAndroid.java
+21:27:44,592 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/package-info.java
+21:27:44,725 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient were analyzed.
+21:27:44,821 DEBUG ProjectAnalyzerUtil:195 - Client Project [id=3, name=AndroidClient] analyzed and persisted.
+21:27:44,825 DEBUG ProjectAnalyzerUtil:143 - Building files using the defaults builders.
+21:27:44,882 DEBUG ProjectAnalyzerUtil:148 - Building with 'Maven Dependency Downloader'
+21:27:44,883 DEBUG ProjectAnalyzerUtil:150 - Maven Dependency Downloader worked!
+21:27:44,884 DEBUG ProjectAnalyzerUtil:148 - Building with 'Android AAPT and AIDL Builder'
+21:27:44,885 DEBUG ProjectAnalyzerUtil:150 - Android AAPT and AIDL Builder worked!
+21:27:44,886 DEBUG ProjectAnalyzerUtil:159 - Processing the client DesktopClient
+21:27:44,891 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient
+21:27:44,935 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/package-info.java
+21:27:44,959 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/MainDesktop.java
+21:27:45,151 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient were analyzed.
+21:27:45,256 DEBUG ProjectAnalyzerUtil:195 - Client Project [id=4, name=DesktopClient] analyzed and persisted.
+21:27:45,267 DEBUG TasksController:81 - New Task added to the queue.
+21:27:45,478 DEBUG TasksController:145 - Task "Task to mine association rules from source API" inserted in the pool.
+21:27:45,479 DEBUG AssociationRulesMine:72 - Mining association rules with algorithm weka.associations.FPGrowth
+21:27:45,718 DEBUG AssociationRulesMine:78 - Number of instances: 6
+21:27:45,718 DEBUG AssociationRulesMine:79 - Number of attributes: 3
+21:27:45,727 DEBUG AssociationRulesMine:100 - Building Associations with params: [-P, 2, -I, 4, -N, 2147483647, -T, 0, -C, 0.75, -D, 0.05, -U, 1.0, -M, 0.8333333333333333, -S]
+21:27:45,817 DEBUG AssociationRulesMine:113 - Build finished! Building model.
+21:27:45,819 DEBUG AssociationRulesMine:120 - Number of rules discovered: 12
+21:27:45,875 DEBUG AssociationRulesMine:199 - Asociation rules mining finished!
+21:27:46,280 DEBUG TasksController:81 - New Task added to the queue.
+21:27:47,481 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Nov 23, 2013 9:27:45 PM." inserted in the pool.
+21:27:49,547 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,548 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,550 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,550 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,556 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,564 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,567 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,568 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,571 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,571 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,575 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,575 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,578 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,579 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,583 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,583 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,588 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,588 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,593 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,593 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,617 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,618 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,625 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,628 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,632 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,633 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,636 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,637 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,647 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,650 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,654 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,654 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,659 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,660 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,664 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,664 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,669 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,669 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:49,673 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:27:49,674 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:27:50,283  INFO TasksController:61 - Threads controller ended.
+21:27:51,482 DEBUG TasksController:154 - ThreadExecuter finished.
+21:27:51,483  INFO TasksControllerHook:18 - Shutdown Hook called
+21:27:51,485  INFO TasksController:61 - Threads controller ended.
+21:34:43,992 DEBUG TasksController:128 - ThreadExecuter started.
+21:34:43,992 DEBUG TasksController:81 - New Task added to the queue.
+21:34:43,998 DEBUG TasksController:145 - Task "CBSoftAPI API analyze." inserted in the pool.
+21:34:44,002  INFO APIAnalyzerTask:52 - The analyze of the API CBSoftAPI was started.
+21:34:44,661 DEBUG APIAnalyzer:129 - Analysing the source files on directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI
+21:34:45,654 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Credencial.java
+21:34:45,689 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Comunicador.java
+21:34:45,812 DEBUG APIAnalyzer:147 - Analyse of source code files in the directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI finished
+21:34:45,813 DEBUG APIAnalyzerTask:66 - Persisting CBSoftAPI API data.
+21:34:47,361  INFO APIAnalyzerTask:70 - API CBSoftAPI analyzed.
+21:34:47,998 DEBUG ProjectAnalyzerUtil:274 - Project [id=1, name=CBSoftAPI] API analyzed and persisted.
+21:34:48,014 DEBUG ProjectAnalyzerUtil:143 - Building files using the defaults builders.
+21:34:48,451 DEBUG ProjectAnalyzerUtil:148 - Building with 'Maven Dependency Downloader'
+21:34:48,453 DEBUG ProjectAnalyzerUtil:150 - Maven Dependency Downloader worked!
+21:34:48,453 DEBUG ProjectAnalyzerUtil:148 - Building with 'Android AAPT and AIDL Builder'
+21:34:48,455 DEBUG ProjectAnalyzerUtil:150 - Android AAPT and AIDL Builder worked!
+21:34:48,458 DEBUG ProjectAnalyzerUtil:159 - Processing the client WebClient
+21:34:48,465 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient
+21:34:48,506 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/package-info.java
+21:34:48,526 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/MainWeb.java
+21:34:48,771 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient were analyzed.
+21:34:48,856 DEBUG ProjectAnalyzerUtil:195 - Client Project [id=2, name=WebClient] analyzed and persisted.
+21:34:48,859 DEBUG ProjectAnalyzerUtil:143 - Building files using the defaults builders.
+21:34:48,936 DEBUG ProjectAnalyzerUtil:148 - Building with 'Maven Dependency Downloader'
+21:34:48,937 DEBUG ProjectAnalyzerUtil:150 - Maven Dependency Downloader worked!
+21:34:48,937 DEBUG ProjectAnalyzerUtil:148 - Building with 'Android AAPT and AIDL Builder'
+21:34:48,939 DEBUG ProjectAnalyzerUtil:150 - Android AAPT and AIDL Builder worked!
+21:34:48,939 DEBUG ProjectAnalyzerUtil:159 - Processing the client AndroidClient
+21:34:48,942 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient
+21:34:48,995 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/MainAndroid.java
+21:34:49,071 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/package-info.java
+21:34:49,212 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient were analyzed.
+21:34:49,296 DEBUG ProjectAnalyzerUtil:195 - Client Project [id=3, name=AndroidClient] analyzed and persisted.
+21:34:49,301 DEBUG ProjectAnalyzerUtil:143 - Building files using the defaults builders.
+21:34:49,358 DEBUG ProjectAnalyzerUtil:148 - Building with 'Maven Dependency Downloader'
+21:34:49,359 DEBUG ProjectAnalyzerUtil:150 - Maven Dependency Downloader worked!
+21:34:49,359 DEBUG ProjectAnalyzerUtil:148 - Building with 'Android AAPT and AIDL Builder'
+21:34:49,361 DEBUG ProjectAnalyzerUtil:150 - Android AAPT and AIDL Builder worked!
+21:34:49,361 DEBUG ProjectAnalyzerUtil:159 - Processing the client DesktopClient
+21:34:49,367 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient
+21:34:49,410 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/package-info.java
+21:34:49,434 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/MainDesktop.java
+21:34:49,644 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient were analyzed.
+21:34:49,743 DEBUG ProjectAnalyzerUtil:195 - Client Project [id=4, name=DesktopClient] analyzed and persisted.
+21:34:49,751 DEBUG TasksController:81 - New Task added to the queue.
+21:34:49,999 DEBUG TasksController:145 - Task "Task to mine association rules from source API" inserted in the pool.
+21:34:50,000 DEBUG AssociationRulesMine:72 - Mining association rules with algorithm weka.associations.FPGrowth
+21:34:50,247 DEBUG AssociationRulesMine:78 - Number of instances: 6
+21:34:50,248 DEBUG AssociationRulesMine:79 - Number of attributes: 3
+21:34:50,256 DEBUG AssociationRulesMine:100 - Building Associations with params: [-P, 2, -I, 4, -N, 2147483647, -T, 0, -C, 0.75, -D, 0.05, -U, 1.0, -M, 0.8333333333333333, -S]
+21:34:50,354 DEBUG AssociationRulesMine:113 - Build finished! Building model.
+21:34:50,357 DEBUG AssociationRulesMine:120 - Number of rules discovered: 12
+21:34:50,435 DEBUG AssociationRulesMine:199 - Asociation rules mining finished!
+21:34:50,763 DEBUG TasksController:81 - New Task added to the queue.
+21:34:52,002 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Nov 23, 2013 9:34:50 PM." inserted in the pool.
+21:34:53,769 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,778 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,781 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,781 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,783 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,784 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,786 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,786 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,788 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,788 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,791 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,791 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,794 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,795 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,799 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,799 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,803 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,803 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,806 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,807 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,823 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,823 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,827 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,827 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,830 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,831 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,836 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,838 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,841 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,841 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,844 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,844 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,847 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,848 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,851 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,852 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,861 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,865 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:53,870 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:34:53,870 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:34:54,766  INFO TasksController:61 - Threads controller ended.
+21:34:56,003 DEBUG TasksController:154 - ThreadExecuter finished.
+21:34:56,005  INFO TasksControllerHook:18 - Shutdown Hook called
+21:34:56,006  INFO TasksController:61 - Threads controller ended.
+21:37:48,176 DEBUG TasksController:128 - ThreadExecuter started.
+21:37:48,176 DEBUG TasksController:81 - New Task added to the queue.
+21:37:48,182 DEBUG TasksController:145 - Task "CBSoftAPI API analyze." inserted in the pool.
+21:37:48,187  INFO APIAnalyzerTask:52 - The analyze of the API CBSoftAPI was started.
+21:37:48,861 DEBUG APIAnalyzer:129 - Analysing the source files on directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI
+21:37:49,806 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Credencial.java
+21:37:49,841 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Comunicador.java
+21:37:49,980 DEBUG APIAnalyzer:147 - Analyse of source code files in the directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI finished
+21:37:49,981 DEBUG APIAnalyzerTask:66 - Persisting CBSoftAPI API data.
+21:37:51,682  INFO APIAnalyzerTask:70 - API CBSoftAPI analyzed.
+21:37:52,183 DEBUG ProjectAnalyzerUtil:274 - Project [id=1, name=CBSoftAPI] API analyzed and persisted.
+21:37:52,201 DEBUG ProjectAnalyzerUtil:143 - Building files using the defaults builders.
+21:37:52,601 DEBUG ProjectAnalyzerUtil:148 - Building with 'Maven Dependency Downloader'
+21:37:52,602 DEBUG ProjectAnalyzerUtil:150 - Maven Dependency Downloader worked!
+21:37:52,603 DEBUG ProjectAnalyzerUtil:148 - Building with 'Android AAPT and AIDL Builder'
+21:37:52,605 DEBUG ProjectAnalyzerUtil:150 - Android AAPT and AIDL Builder worked!
+21:37:52,607 DEBUG ProjectAnalyzerUtil:159 - Processing the client WebClient
+21:37:52,614 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient
+21:37:52,652 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/package-info.java
+21:37:52,681 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/MainWeb.java
+21:37:52,934 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient were analyzed.
+21:37:53,041 DEBUG ProjectAnalyzerUtil:195 - Client Project [id=2, name=WebClient] analyzed and persisted.
+21:37:53,047 DEBUG ProjectAnalyzerUtil:143 - Building files using the defaults builders.
+21:37:53,134 DEBUG ProjectAnalyzerUtil:148 - Building with 'Maven Dependency Downloader'
+21:37:53,135 DEBUG ProjectAnalyzerUtil:150 - Maven Dependency Downloader worked!
+21:37:53,135 DEBUG ProjectAnalyzerUtil:148 - Building with 'Android AAPT and AIDL Builder'
+21:37:53,137 DEBUG ProjectAnalyzerUtil:150 - Android AAPT and AIDL Builder worked!
+21:37:53,137 DEBUG ProjectAnalyzerUtil:159 - Processing the client AndroidClient
+21:37:53,141 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient
+21:37:53,207 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/MainAndroid.java
+21:37:53,294 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/package-info.java
+21:37:53,416 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient were analyzed.
+21:37:53,534 DEBUG ProjectAnalyzerUtil:195 - Client Project [id=3, name=AndroidClient] analyzed and persisted.
+21:37:53,538 DEBUG ProjectAnalyzerUtil:143 - Building files using the defaults builders.
+21:37:53,601 DEBUG ProjectAnalyzerUtil:148 - Building with 'Maven Dependency Downloader'
+21:37:53,602 DEBUG ProjectAnalyzerUtil:150 - Maven Dependency Downloader worked!
+21:37:53,603 DEBUG ProjectAnalyzerUtil:148 - Building with 'Android AAPT and AIDL Builder'
+21:37:53,605 DEBUG ProjectAnalyzerUtil:150 - Android AAPT and AIDL Builder worked!
+21:37:53,606 DEBUG ProjectAnalyzerUtil:159 - Processing the client DesktopClient
+21:37:53,612 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient
+21:37:53,642 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/package-info.java
+21:37:53,665 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/MainDesktop.java
+21:37:53,881 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient were analyzed.
+21:37:53,965 DEBUG ProjectAnalyzerUtil:195 - Client Project [id=4, name=DesktopClient] analyzed and persisted.
+21:37:53,972 DEBUG TasksController:81 - New Task added to the queue.
+21:37:54,184 DEBUG TasksController:145 - Task "Task to mine association rules from source API" inserted in the pool.
+21:37:54,185 DEBUG AssociationRulesMine:72 - Mining association rules with algorithm weka.associations.FPGrowth
+21:37:54,427 DEBUG AssociationRulesMine:78 - Number of instances: 6
+21:37:54,427 DEBUG AssociationRulesMine:79 - Number of attributes: 3
+21:37:54,435 DEBUG AssociationRulesMine:100 - Building Associations with params: [-P, 2, -I, 4, -N, 2147483647, -T, 0, -C, 0.75, -D, 0.05, -U, 1.0, -M, 0.8333333333333333, -S]
+21:37:54,528 DEBUG AssociationRulesMine:113 - Build finished! Building model.
+21:37:54,530 DEBUG AssociationRulesMine:120 - Number of rules discovered: 12
+21:37:54,585 DEBUG AssociationRulesMine:199 - Asociation rules mining finished!
+21:37:54,981 DEBUG TasksController:81 - New Task added to the queue.
+21:37:56,187 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Nov 23, 2013 9:37:54 PM." inserted in the pool.
+21:37:57,845 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,851 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,855 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,855 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,859 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,859 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,863 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,863 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,867 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,867 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,871 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,871 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,874 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,875 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,883 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,888 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,893 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,893 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,895 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,896 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,910 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,910 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,916 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,919 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,923 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,923 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,927 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,927 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,930 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,931 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,934 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,935 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,938 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,939 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,943 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,944 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,948 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,948 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:57,952 DEBUG AssociationsRecommender:59 - Making recommended sets
+21:37:57,953 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+21:37:58,983  INFO TasksController:61 - Threads controller ended.
+21:38:00,188 DEBUG TasksController:154 - ThreadExecuter finished.
+21:38:00,195  INFO TasksControllerHook:18 - Shutdown Hook called
+21:38:00,196  INFO TasksController:61 - Threads controller ended.
+22:57:55,535 DEBUG TasksController:128 - ThreadExecuter started.
+22:57:55,535 DEBUG TasksController:81 - New Task added to the queue.
+22:57:55,542  INFO APIAnalyzerTask:52 - The analyze of the API CBSoftAPI was started.
+22:57:55,541 DEBUG TasksController:145 - Task "CBSoftAPI API analyze." inserted in the pool.
+22:57:56,216 DEBUG APIAnalyzer:129 - Analysing the source files on directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI
+22:57:57,172 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Credencial.java
+22:57:57,210 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Comunicador.java
+22:57:57,342 DEBUG APIAnalyzer:147 - Analyse of source code files in the directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI finished
+22:57:57,342 DEBUG APIAnalyzerTask:66 - Persisting CBSoftAPI API data.
+22:57:59,012  INFO APIAnalyzerTask:70 - API CBSoftAPI analyzed.
+22:57:59,544 DEBUG ProjectAnalyzerUtil:274 - Project [id=1, name=CBSoftAPI] API analyzed and persisted.
+22:57:59,548  INFO TasksController:61 - Threads controller ended.
+22:57:59,553  INFO TasksControllerHook:18 - Shutdown Hook called
+22:57:59,555  INFO TasksController:61 - Threads controller ended.
+22:58:17,165 DEBUG ProjectAnalyzerUtil:143 - Building files using the defaults builders.
+22:58:17,628 DEBUG ProjectAnalyzerUtil:148 - Building with 'Android AAPT and AIDL Builder'
+22:58:17,630 DEBUG ProjectAnalyzerUtil:150 - Android AAPT and AIDL Builder worked!
+22:58:17,631 DEBUG ProjectAnalyzerUtil:148 - Building with 'Maven Dependency Downloader'
+22:58:17,632 DEBUG ProjectAnalyzerUtil:150 - Maven Dependency Downloader worked!
+22:58:17,632 DEBUG ProjectAnalyzerUtil:159 - Processing the client WebClient
+22:58:18,020 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient
+22:58:18,860 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/package-info.java
+22:58:18,941 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/MainWeb.java
+22:58:19,175 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient were analyzed.
+22:58:19,400 DEBUG ProjectAnalyzerUtil:195 - Client Project [id=2, name=WebClient] analyzed and persisted.
+22:58:19,406 DEBUG ProjectAnalyzerUtil:143 - Building files using the defaults builders.
+22:58:19,479 DEBUG ProjectAnalyzerUtil:148 - Building with 'Android AAPT and AIDL Builder'
+22:58:19,481 DEBUG ProjectAnalyzerUtil:150 - Android AAPT and AIDL Builder worked!
+22:58:19,481 DEBUG ProjectAnalyzerUtil:148 - Building with 'Maven Dependency Downloader'
+22:58:19,482 DEBUG ProjectAnalyzerUtil:150 - Maven Dependency Downloader worked!
+22:58:19,485 DEBUG ProjectAnalyzerUtil:159 - Processing the client AndroidClient
+22:58:19,489 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient
+22:58:19,561 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/MainAndroid.java
+22:58:19,650 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/package-info.java
+22:58:19,809 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient were analyzed.
+22:58:19,903 DEBUG ProjectAnalyzerUtil:195 - Client Project [id=3, name=AndroidClient] analyzed and persisted.
+22:58:19,909 DEBUG ProjectAnalyzerUtil:143 - Building files using the defaults builders.
+22:58:19,980 DEBUG ProjectAnalyzerUtil:148 - Building with 'Android AAPT and AIDL Builder'
+22:58:19,983 DEBUG ProjectAnalyzerUtil:150 - Android AAPT and AIDL Builder worked!
+22:58:19,985 DEBUG ProjectAnalyzerUtil:148 - Building with 'Maven Dependency Downloader'
+22:58:19,986 DEBUG ProjectAnalyzerUtil:150 - Maven Dependency Downloader worked!
+22:58:19,987 DEBUG ProjectAnalyzerUtil:159 - Processing the client DesktopClient
+22:58:19,991 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient
+22:58:20,037 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/package-info.java
+22:58:20,073 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/MainDesktop.java
+22:58:20,310 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient were analyzed.
+22:58:20,402 DEBUG ProjectAnalyzerUtil:195 - Client Project [id=4, name=DesktopClient] analyzed and persisted.
+22:58:20,409 DEBUG TasksController:128 - ThreadExecuter started.
+22:58:20,409 DEBUG TasksController:154 - ThreadExecuter finished.
+22:58:20,409  INFO TasksController:61 - Threads controller ended.
+22:58:20,421  INFO TasksControllerHook:18 - Shutdown Hook called
+22:58:20,422  INFO TasksController:61 - Threads controller ended.
+23:03:51,665 DEBUG TasksController:128 - ThreadExecuter started.
+23:03:51,665 DEBUG TasksController:81 - New Task added to the queue.
+23:03:51,671 DEBUG TasksController:145 - Task "Task to mine association rules from source API" inserted in the pool.
+23:03:51,671 DEBUG AssociationRulesMine:72 - Mining association rules with algorithm weka.associations.FPGrowth
+23:04:08,582 DEBUG AssociationRulesMine:78 - Number of instances: 6
+23:04:08,582 DEBUG AssociationRulesMine:79 - Number of attributes: 3
+23:04:08,596 DEBUG AssociationRulesMine:100 - Building Associations with params: [-P, 2, -I, 4, -N, 2147483647, -T, 0, -C, 0.75, -D, 0.05, -U, 1.0, -M, 0.8333333333333333, -S]
+23:04:08,743 DEBUG AssociationRulesMine:113 - Build finished! Building model.
+23:04:08,748 DEBUG AssociationRulesMine:120 - Number of rules discovered: 12
+23:04:08,819 DEBUG AssociationRulesMine:199 - Asociation rules mining finished!
+23:04:09,746  INFO TasksController:61 - Threads controller ended.
+23:04:09,756  INFO TasksControllerHook:18 - Shutdown Hook called
+23:04:09,757  INFO TasksController:61 - Threads controller ended.
+23:04:24,382 DEBUG TasksController:128 - ThreadExecuter started.
+23:04:24,383 DEBUG TasksController:81 - New Task added to the queue.
+23:04:24,390 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Nov 23, 2013 11:04:08 PM." inserted in the pool.
+23:04:26,174 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,174 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,178 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,178 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,181 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,182 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,185 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,185 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,188 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,189 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,193 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,194 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,219 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,274 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,278 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,279 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,284 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,284 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,288 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,288 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,321 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,348 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,352 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,353 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,357 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,357 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,361 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,362 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,365 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,366 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,369 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,369 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,387 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,414 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,418 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,419 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,422 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,422 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:26,425 DEBUG AssociationsRecommender:59 - Making recommended sets
+23:04:26,425 DEBUG AssociationsRecommender:70 - Ordering the recommended sets
+23:04:27,394  INFO TasksController:61 - Threads controller ended.
+23:04:27,401  INFO TasksControllerHook:18 - Shutdown Hook called
+23:04:27,402  INFO TasksController:61 - Threads controller ended.
+23:18:36,384 DEBUG TasksController:128 - ThreadExecuter started.
+23:18:36,384 DEBUG TasksController:81 - New Task added to the queue.
+23:18:36,390 DEBUG TasksController:145 - Task "Extraction of code examples from client WebClient" inserted in the pool.
+23:18:36,393 DEBUG TasksController:81 - New Task added to the queue.
+23:18:36,397 DEBUG TasksController:81 - New Task added to the queue.
+23:18:37,522 DEBUG ExamplesExtractorUtil:68 - Downloading source files from repository
+23:18:37,524 DEBUG ExamplesExtractorUtil:122 - Building files using default builders
+23:18:38,029 DEBUG ExamplesExtractorUtil:127 - Using builder 'Android AAPT and AIDL Builder'
+23:18:38,031 DEBUG ExamplesExtractorUtil:129 - Sucess on build with 'Android AAPT and AIDL Builder'
+23:18:38,031 DEBUG ExamplesExtractorUtil:127 - Using builder 'Maven Dependency Downloader'
+23:18:38,032 DEBUG ExamplesExtractorUtil:129 - Sucess on build with 'Maven Dependency Downloader'
+23:18:38,032 DEBUG ExamplesExtractorUtil:138 - Extracting the code examples
+23:18:38,393 DEBUG TasksController:145 - Task "Extraction of code examples from client AndroidClient" inserted in the pool.
+23:18:38,394 DEBUG TasksController:145 - Task "Extraction of code examples from client DesktopClient" inserted in the pool.
+23:18:38,401 DEBUG ExamplesExtractorUtil:68 - Downloading source files from repository
+23:18:38,403 DEBUG ExamplesExtractorUtil:122 - Building files using default builders
+23:18:38,426 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+23:18:38,429 DEBUG ExampleExtractor:87 - Building the ASTParser
+23:18:38,554 DEBUG ExamplesExtractorUtil:127 - Using builder 'Android AAPT and AIDL Builder'
+23:18:38,559 DEBUG ExamplesExtractorUtil:129 - Sucess on build with 'Android AAPT and AIDL Builder'
+23:18:38,559 DEBUG ExamplesExtractorUtil:127 - Using builder 'Maven Dependency Downloader'
+23:18:38,561 DEBUG ExamplesExtractorUtil:129 - Sucess on build with 'Maven Dependency Downloader'
+23:18:38,561 DEBUG ExamplesExtractorUtil:138 - Extracting the code examples
+23:18:38,566 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+23:18:38,569 DEBUG ExampleExtractor:87 - Building the ASTParser
+23:18:39,269 DEBUG ExampleExtractor:98 - Extacting examples from source files
+23:18:39,269 DEBUG ExampleExtractor:98 - Extacting examples from source files
+23:18:40,113 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/package-info.java
+23:18:40,145 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/MainWeb.java
+23:18:40,145 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/MainAndroid.java
+23:18:40,453 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/WebClient finished
+23:18:40,454 DEBUG ExamplesExtractorUtil:154 - Removing similar examples
+23:18:40,462 DEBUG ExamplesExtractorUtil:162 - Persisting client WebClient
+23:18:40,509 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/package-info.java
+23:18:40,510 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/AndroidClient finished
+23:18:40,510 DEBUG ExamplesExtractorUtil:154 - Removing similar examples
+23:18:40,515 DEBUG ExamplesExtractorUtil:162 - Persisting client AndroidClient
+23:18:40,651  INFO ExamplesExtractorUtil:171 - Client Project [id=2, name=WebClient] processed and persisted
+23:18:40,657 DEBUG ExamplesExtractorUtil:68 - Downloading source files from repository
+23:18:40,659 DEBUG ExamplesExtractorUtil:122 - Building files using default builders
+23:18:40,712  INFO ExamplesExtractorUtil:171 - Client Project [id=3, name=AndroidClient] processed and persisted
+23:18:40,775 DEBUG ExamplesExtractorUtil:127 - Using builder 'Android AAPT and AIDL Builder'
+23:18:40,778 DEBUG ExamplesExtractorUtil:129 - Sucess on build with 'Android AAPT and AIDL Builder'
+23:18:40,779 DEBUG ExamplesExtractorUtil:127 - Using builder 'Maven Dependency Downloader'
+23:18:40,780 DEBUG ExamplesExtractorUtil:129 - Sucess on build with 'Maven Dependency Downloader'
+23:18:40,781 DEBUG ExamplesExtractorUtil:138 - Extracting the code examples
+23:18:40,784 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+23:18:40,785 DEBUG ExampleExtractor:87 - Building the ASTParser
+23:18:40,805 DEBUG ExampleExtractor:98 - Extacting examples from source files
+23:18:40,892 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/package-info.java
+23:18:40,950 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/MainDesktop.java
+23:18:41,210 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/DesktopClient finished
+23:18:41,211 DEBUG ExamplesExtractorUtil:154 - Removing similar examples
+23:18:41,217 DEBUG ExamplesExtractorUtil:162 - Persisting client DesktopClient
+23:18:41,385  INFO ExamplesExtractorUtil:171 - Client Project [id=4, name=DesktopClient] processed and persisted
+23:18:41,401  INFO TasksController:61 - Threads controller ended.
+23:18:41,409  INFO TasksControllerHook:18 - Shutdown Hook called
+23:18:41,442  INFO TasksController:61 - Threads controller ended.
+19:02:27,167 DEBUG TasksController:81 - New Task added to the queue.
+19:02:27,169 DEBUG TasksController:128 - ThreadExecuter started.
+19:02:27,186 DEBUG TasksController:145 - Task "CBSoftAPI API analyze." inserted in the pool.
+19:02:49,812 DEBUG APIAnalyzer:129 - Analysing the source files on directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI
+19:02:51,048 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Credencial.java
+19:02:51,083 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Comunicador.java
+19:02:51,251 DEBUG APIAnalyzer:147 - Analyse of source code files in the directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI finished
+19:03:36,034  INFO TasksControllerHook:18 - Shutdown Hook called
+19:03:36,036  INFO TasksController:61 - Threads controller ended.
+19:05:49,983 DEBUG TasksController:128 - ThreadExecuter started.
+19:05:49,983 DEBUG TasksController:81 - New Task added to the queue.
+19:05:49,990 DEBUG TasksController:145 - Task "CBSoftAPI API analyze." inserted in the pool.
+19:05:57,299 DEBUG APIAnalyzer:129 - Analysing the source files on directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI
+19:05:58,378 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Credencial.java
+19:05:58,414 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Comunicador.java
+19:05:58,625 DEBUG APIAnalyzer:147 - Analyse of source code files in the directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI finished
+19:06:00,021  INFO TasksController:61 - Threads controller ended.
+19:06:00,027  INFO TasksControllerHook:18 - Shutdown Hook called
+19:06:00,028  INFO TasksController:61 - Threads controller ended.
+19:09:49,295 DEBUG TasksController:128 - ThreadExecuter started.
+19:09:49,295 DEBUG TasksController:81 - New Task added to the queue.
+19:09:49,300 DEBUG TasksController:145 - Task "CBSoftAPI API analyze." inserted in the pool.
+19:09:49,340  INFO TasksController:61 - Threads controller ended.
+19:09:49,346  INFO TasksControllerHook:18 - Shutdown Hook called
+19:09:49,347  INFO TasksController:61 - Threads controller ended.
+19:09:51,306 DEBUG TasksController:154 - ThreadExecuter finished.
+19:10:13,352 DEBUG TasksController:128 - ThreadExecuter started.
+19:10:13,352 DEBUG TasksController:81 - New Task added to the queue.
+19:10:13,360 DEBUG TasksController:145 - Task "CBSoftAPI API analyze." inserted in the pool.
+19:10:17,899 DEBUG APIAnalyzer:129 - Analysing the source files on directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI
+19:10:18,976 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Credencial.java
+19:10:19,012 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Comunicador.java
+19:10:19,188 DEBUG APIAnalyzer:147 - Analyse of source code files in the directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI finished
+19:10:20,439  INFO TasksController:61 - Threads controller ended.
+19:10:20,443  INFO TasksControllerHook:18 - Shutdown Hook called
+19:10:20,443  INFO TasksController:61 - Threads controller ended.
+21:20:37,296  INFO TasksController:61 - Threads controller ended.
+21:20:37,296 DEBUG TasksController:128 - ThreadExecuter started.
+21:20:37,333 DEBUG TasksController:154 - ThreadExecuter finished.
+21:20:37,336  INFO TasksControllerHook:18 - Shutdown Hook called
+21:20:37,337  INFO TasksController:61 - Threads controller ended.
+21:21:06,008 DEBUG TasksController:128 - ThreadExecuter started.
+21:21:06,024 DEBUG TasksController:81 - New Task added to the queue.
+21:21:06,029 DEBUG TasksController:81 - New Task added to the queue.
+21:21:06,031 DEBUG TasksController:81 - New Task added to the queue.
+21:21:08,013 DEBUG TasksController:145 - Task "WebClient analyze." inserted in the pool.
+21:21:08,014 DEBUG TasksController:145 - Task "AndroidClient analyze." inserted in the pool.
+21:21:08,015 DEBUG TasksController:145 - Task "DesktopClient analyze." inserted in the pool.
+21:21:12,578 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient
+21:21:12,578 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient
+21:21:13,744 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/package-info.java
+21:21:13,768 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/MainAndroid.java
+21:21:13,768 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/MainWeb.java
+21:21:14,052 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient were analyzed.
+21:21:14,077 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/package-info.java
+21:21:14,207 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient were analyzed.
+21:21:14,990 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient
+21:21:15,174 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/package-info.java
+21:21:15,211 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/MainDesktop.java
+21:21:15,453 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient were analyzed.
+21:21:16,055  INFO TasksController:61 - Threads controller ended.
+21:21:16,059  INFO TasksControllerHook:18 - Shutdown Hook called
+21:21:16,060  INFO TasksController:61 - Threads controller ended.
+21:45:34,641 DEBUG TasksController:128 - ThreadExecuter started.
+21:45:34,641  INFO TasksController:61 - Threads controller ended.
+21:45:34,645 DEBUG TasksController:154 - ThreadExecuter finished.
+21:45:34,653  INFO TasksControllerHook:18 - Shutdown Hook called
+21:45:34,653  INFO TasksController:61 - Threads controller ended.
+21:46:38,234 DEBUG TasksController:81 - New Task added to the queue.
+21:46:38,234 DEBUG TasksController:128 - ThreadExecuter started.
+21:46:38,245 DEBUG TasksController:145 - Task "Task to mine association rules from source API" inserted in the pool.
+21:46:38,245 DEBUG AssociationRulesMine:55 - Mining association rules with algorithm weka.associations.FPGrowth
+21:46:41,303 DEBUG AssociationRulesMine:59 - Number of instances: 6
+21:46:41,303 DEBUG AssociationRulesMine:60 - Number of attributes: 3
+21:46:41,487 DEBUG AssociationRulesMine:80 - Building Associations with params: [-P, 2, -I, 4, -N, 2147483647, -T, 0, -C, 0.75, -D, 0.05, -U, 1.0, -M, 0.8333333333333333, -S]
+21:46:41,610 DEBUG AssociationRulesMine:93 - Build finished! Building model.
+21:46:41,612 DEBUG AssociationRulesMine:100 - Number of rules discovered: 12
+21:46:42,096 DEBUG AssociationRulesMine:118 - Persisting temporally the results.
+21:46:42,097 DEBUG AssociationRulesMine:164 - Progress [=         ] (10 remaining)
+21:46:42,097 DEBUG AssociationRulesMine:164 - Progress [==        ] (9 remaining)
+21:46:42,097 DEBUG AssociationRulesMine:164 - Progress [===       ] (8 remaining)
+21:46:42,098 DEBUG AssociationRulesMine:164 - Progress [====      ] (7 remaining)
+21:46:42,098 DEBUG AssociationRulesMine:164 - Progress [=====     ] (6 remaining)
+21:46:42,099 DEBUG AssociationRulesMine:164 - Progress [======    ] (5 remaining)
+21:46:42,101 DEBUG AssociationRulesMine:164 - Progress [=======   ] (4 remaining)
+21:46:42,101 DEBUG AssociationRulesMine:164 - Progress [========  ] (3 remaining)
+21:46:42,103 DEBUG AssociationRulesMine:164 - Progress [========= ] (2 remaining)
+21:46:42,103 DEBUG AssociationRulesMine:164 - Progress [==========] (1 remaining)
+21:46:42,340 DEBUG AssociationRulesMine:177 - Making permanent the persisted data.
+21:46:42,342 DEBUG AssociationRulesMine:180 - Asociation rules mining finished!
+21:46:43,247  INFO TasksController:61 - Threads controller ended.
+21:46:43,254  INFO TasksControllerHook:18 - Shutdown Hook called
+21:46:43,255  INFO TasksController:61 - Threads controller ended.
+23:03:32,665 DEBUG TasksController:128 - ThreadExecuter started.
+23:03:32,665 DEBUG TasksController:81 - New Task added to the queue.
+23:03:32,671 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Nov 24, 2013 9:46:42 PM." inserted in the pool.
+23:03:33,345 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,346 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,350 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,350 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,363 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,491 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,496 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,496 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,499 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,500 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,519 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,540 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,544 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,549 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,554 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,555 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,558 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,558 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,560 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,560 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,585 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,605 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,612 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,612 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,615 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,615 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,618 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,618 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,620 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,620 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,622 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,623 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,625 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,625 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,627 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,628 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,630 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,630 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:33,633 DEBUG AssociationsRecommender:61 - Making recommended sets
+23:03:33,633 DEBUG AssociationsRecommender:72 - Ordering the recommended sets
+23:03:37,673  INFO TasksController:61 - Threads controller ended.
+23:03:37,676  INFO TasksControllerHook:18 - Shutdown Hook called
+23:03:37,677  INFO TasksController:61 - Threads controller ended.
+23:40:36,249 DEBUG TasksController:128 - ThreadExecuter started.
+23:40:36,249 DEBUG TasksController:81 - New Task added to the queue.
+23:40:36,253 DEBUG TasksController:145 - Task "Extraction of code examples from client WebClient" inserted in the pool.
+23:40:37,181 DEBUG TasksController:81 - New Task added to the queue.
+23:40:37,183 DEBUG TasksController:81 - New Task added to the queue.
+23:40:37,216 DEBUG ExampleExtractorTask:88 - Downloading source files from repository
+23:40:37,221 DEBUG ExampleExtractorTask:121 - Building files using default builders
+23:40:37,667 DEBUG ExampleExtractorTask:126 - Using builder 'Maven Dependency Downloader'
+23:40:37,668 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Maven Dependency Downloader'
+23:40:37,669 DEBUG ExampleExtractorTask:126 - Using builder 'Android AAPT and AIDL Builder'
+23:40:37,670 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Android AAPT and AIDL Builder'
+23:40:37,670 DEBUG ExampleExtractorTask:137 - Extracting the code examples
+23:40:38,255 DEBUG TasksController:145 - Task "Extraction of code examples from client AndroidClient" inserted in the pool.
+23:40:38,255 DEBUG TasksController:145 - Task "Extraction of code examples from client DesktopClient" inserted in the pool.
+23:40:38,257 DEBUG ExampleExtractorTask:88 - Downloading source files from repository
+23:40:38,261 DEBUG ExampleExtractorTask:121 - Building files using default builders
+23:40:38,273 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+23:40:38,276 DEBUG ExampleExtractor:87 - Building the ASTParser
+23:40:38,372 DEBUG ExampleExtractorTask:126 - Using builder 'Maven Dependency Downloader'
+23:40:38,373 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Maven Dependency Downloader'
+23:40:38,373 DEBUG ExampleExtractorTask:126 - Using builder 'Android AAPT and AIDL Builder'
+23:40:38,376 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Android AAPT and AIDL Builder'
+23:40:38,376 DEBUG ExampleExtractorTask:137 - Extracting the code examples
+23:40:38,383 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+23:40:38,386 DEBUG ExampleExtractor:87 - Building the ASTParser
+23:40:39,043 DEBUG ExampleExtractor:98 - Extacting examples from source files
+23:40:39,043 DEBUG ExampleExtractor:98 - Extacting examples from source files
+23:40:40,417 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/package-info.java
+23:40:40,441 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/MainWeb.java
+23:40:40,441 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/MainAndroid.java
+23:40:40,959 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/WebClient finished
+23:40:40,959 DEBUG ExampleExtractorTask:153 - Removing similar examples
+23:40:40,969 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/package-info.java
+23:40:40,970 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/AndroidClient finished
+23:40:40,970 DEBUG ExampleExtractorTask:153 - Removing similar examples
+23:40:41,083 DEBUG ExampleExtractorTask:161 - Persisting client WebClient
+23:40:41,087 DEBUG ExampleExtractorTask:161 - Persisting client AndroidClient
+23:40:42,045 DEBUG ExampleExtractorTask:88 - Downloading source files from repository
+23:40:42,046 DEBUG ExampleExtractorTask:121 - Building files using default builders
+23:40:42,121 DEBUG ExampleExtractorTask:126 - Using builder 'Maven Dependency Downloader'
+23:40:42,122 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Maven Dependency Downloader'
+23:40:42,123 DEBUG ExampleExtractorTask:126 - Using builder 'Android AAPT and AIDL Builder'
+23:40:42,125 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Android AAPT and AIDL Builder'
+23:40:42,125 DEBUG ExampleExtractorTask:137 - Extracting the code examples
+23:40:42,128 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+23:40:42,129 DEBUG ExampleExtractor:87 - Building the ASTParser
+23:40:42,146 DEBUG ExampleExtractor:98 - Extacting examples from source files
+23:40:42,324 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/package-info.java
+23:40:42,353 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/MainDesktop.java
+23:40:42,555 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/DesktopClient finished
+23:40:42,558 DEBUG ExampleExtractorTask:153 - Removing similar examples
+23:40:42,562 DEBUG ExampleExtractorTask:161 - Persisting client DesktopClient
+23:40:43,187  INFO TasksController:61 - Threads controller ended.
+23:40:43,193  INFO TasksControllerHook:18 - Shutdown Hook called
+23:40:43,195  INFO TasksController:61 - Threads controller ended.
+00:02:01,208 DEBUG TasksController:128 - ThreadExecuter started.
+00:02:01,208 DEBUG TasksController:81 - New Task added to the queue.
+00:02:01,213 DEBUG TasksController:145 - Task "API examples recommender" inserted in the pool.
+00:02:01,223  INFO ExampleRecommender:33 - Building all recommended examples for each recommended set
+00:02:05,227  INFO TasksController:61 - Threads controller ended.
+00:02:05,230  INFO TasksControllerHook:18 - Shutdown Hook called
+00:02:05,230  INFO TasksController:61 - Threads controller ended.
+00:05:32,901 DEBUG TasksController:128 - ThreadExecuter started.
+00:05:32,901 DEBUG TasksController:81 - New Task added to the queue.
+00:05:32,910 DEBUG TasksController:145 - Task "API examples recommender" inserted in the pool.
+00:05:32,917  INFO ExampleRecommender:33 - Building all recommended examples for each recommended set
+00:05:36,924  INFO TasksController:61 - Threads controller ended.
+00:05:36,929  INFO TasksControllerHook:18 - Shutdown Hook called
+00:05:36,929  INFO TasksController:61 - Threads controller ended.
+00:06:44,135 DEBUG TasksController:128 - ThreadExecuter started.
+00:06:44,135 DEBUG TasksController:81 - New Task added to the queue.
+00:06:44,146 DEBUG TasksController:145 - Task "API examples recommender" inserted in the pool.
+00:06:54,725  INFO ExampleRecommender:33 - Building all recommended examples for each recommended set
+00:08:41,196  INFO TasksController:61 - Threads controller ended.
+00:08:41,205  INFO TasksControllerHook:18 - Shutdown Hook called
+00:08:41,206  INFO TasksController:61 - Threads controller ended.
+00:08:54,987 DEBUG TasksController:128 - ThreadExecuter started.
+00:08:54,987 DEBUG TasksController:81 - New Task added to the queue.
+00:08:54,995 DEBUG TasksController:145 - Task "API examples recommender" inserted in the pool.
+00:08:55,022  INFO ExampleRecommender:33 - Building all recommended examples for each recommended set
+00:12:09,038  INFO TasksController:61 - Threads controller ended.
+00:12:09,048  INFO TasksControllerHook:18 - Shutdown Hook called
+00:12:09,049  INFO TasksController:61 - Threads controller ended.
+19:52:35,982 DEBUG TasksController:128 - ThreadExecuter started.
+19:52:35,982 DEBUG TasksController:81 - New Task added to the queue.
+19:52:36,012 DEBUG TasksController:145 - Task "CBSoftAPI API analyze." inserted in the pool.
+19:52:43,527 DEBUG APIAnalyzer:129 - Analysing the source files on directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI
+19:52:45,101 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Credencial.java
+19:52:45,139 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Comunicador.java
+19:52:45,333 DEBUG APIAnalyzer:147 - Analyse of source code files in the directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI finished
+19:52:46,023  INFO TasksController:61 - Threads controller ended.
+19:52:46,027  INFO TasksControllerHook:18 - Shutdown Hook called
+19:52:46,027  INFO TasksController:61 - Threads controller ended.
+19:52:57,202 DEBUG TasksController:128 - ThreadExecuter started.
+19:52:57,202 DEBUG TasksController:81 - New Task added to the queue.
+19:52:57,210 DEBUG TasksController:145 - Task "WebClient analyze." inserted in the pool.
+19:52:58,621 DEBUG TasksController:81 - New Task added to the queue.
+19:52:58,624 DEBUG TasksController:81 - New Task added to the queue.
+19:52:59,216 DEBUG TasksController:145 - Task "AndroidClient analyze." inserted in the pool.
+19:52:59,217 DEBUG TasksController:145 - Task "DesktopClient analyze." inserted in the pool.
+19:53:00,351 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient
+19:53:00,351 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient
+19:53:01,336 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/package-info.java
+19:53:01,379 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/MainAndroid.java
+19:53:01,379 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/MainWeb.java
+19:53:01,670 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient were analyzed.
+19:53:01,707 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/package-info.java
+19:53:01,841 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient were analyzed.
+19:53:02,247 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient
+19:53:02,362 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/package-info.java
+19:53:02,419 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/MainDesktop.java
+19:53:02,652 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient were analyzed.
+19:53:03,673  INFO TasksController:61 - Threads controller ended.
+19:53:03,678  INFO TasksControllerHook:18 - Shutdown Hook called
+19:53:03,679  INFO TasksController:61 - Threads controller ended.
+19:54:05,684 DEBUG TasksController:81 - New Task added to the queue.
+19:54:05,684 DEBUG TasksController:128 - ThreadExecuter started.
+19:54:05,693 DEBUG TasksController:145 - Task "Task to mine association rules from source API" inserted in the pool.
+19:54:05,693 DEBUG AssociationRulesMine:55 - Mining association rules with algorithm weka.associations.FPGrowth
+19:54:09,828 DEBUG AssociationRulesMine:59 - Number of instances: 6
+19:54:09,828 DEBUG AssociationRulesMine:60 - Number of attributes: 3
+19:54:09,840 DEBUG AssociationRulesMine:80 - Building Associations with params: [-P, 2, -I, 4, -N, 2147483647, -T, 0, -C, 0.75, -D, 0.05, -U, 1.0, -M, 0.8333333333333333, -S]
+19:54:10,083 DEBUG AssociationRulesMine:93 - Build finished! Building model.
+19:54:10,085 DEBUG AssociationRulesMine:100 - Number of rules discovered: 12
+19:54:10,728 DEBUG AssociationRulesMine:118 - Persisting temporally the results.
+19:54:10,729 DEBUG AssociationRulesMine:164 - Progress [=         ] (10 remaining)
+19:54:10,730 DEBUG AssociationRulesMine:164 - Progress [==        ] (9 remaining)
+19:54:10,731 DEBUG AssociationRulesMine:164 - Progress [===       ] (8 remaining)
+19:54:10,731 DEBUG AssociationRulesMine:164 - Progress [====      ] (7 remaining)
+19:54:10,732 DEBUG AssociationRulesMine:164 - Progress [=====     ] (6 remaining)
+19:54:10,733 DEBUG AssociationRulesMine:164 - Progress [======    ] (5 remaining)
+19:54:10,735 DEBUG AssociationRulesMine:164 - Progress [=======   ] (4 remaining)
+19:54:10,736 DEBUG AssociationRulesMine:164 - Progress [========  ] (3 remaining)
+19:54:10,750 DEBUG AssociationRulesMine:164 - Progress [========= ] (2 remaining)
+19:54:10,751 DEBUG AssociationRulesMine:164 - Progress [==========] (1 remaining)
+19:54:11,015 DEBUG AssociationRulesMine:177 - Making permanent the persisted data.
+19:54:11,015 DEBUG AssociationRulesMine:180 - Asociation rules mining finished!
+19:54:11,774  INFO TasksController:61 - Threads controller ended.
+19:54:11,780  INFO TasksControllerHook:18 - Shutdown Hook called
+19:54:11,781  INFO TasksController:61 - Threads controller ended.
+19:56:25,798 DEBUG TasksController:128 - ThreadExecuter started.
+19:56:25,798 DEBUG TasksController:81 - New Task added to the queue.
+19:56:25,810 DEBUG TasksController:145 - Task "Extraction of code examples from client WebClient" inserted in the pool.
+19:56:25,815 DEBUG TasksController:81 - New Task added to the queue.
+19:56:27,811 DEBUG TasksController:145 - Task "Extraction of code examples from client AndroidClient" inserted in the pool.
+19:56:28,118 DEBUG TasksController:81 - New Task added to the queue.
+19:56:28,155 DEBUG ExampleExtractorTask:88 - Downloading source files from repository
+19:56:28,155 DEBUG ExampleExtractorTask:88 - Downloading source files from repository
+19:56:28,162 DEBUG ExampleExtractorTask:121 - Building files using default builders
+19:56:28,162 DEBUG ExampleExtractorTask:121 - Building files using default builders
+19:56:28,786 DEBUG ExampleExtractorTask:126 - Using builder 'Android AAPT and AIDL Builder'
+19:56:28,786 DEBUG ExampleExtractorTask:126 - Using builder 'Android AAPT and AIDL Builder'
+19:56:28,791 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Android AAPT and AIDL Builder'
+19:56:28,791 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Android AAPT and AIDL Builder'
+19:56:28,792 DEBUG ExampleExtractorTask:126 - Using builder 'Maven Dependency Downloader'
+19:56:28,792 DEBUG ExampleExtractorTask:126 - Using builder 'Maven Dependency Downloader'
+19:56:28,794 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Maven Dependency Downloader'
+19:56:28,799 DEBUG ExampleExtractorTask:137 - Extracting the code examples
+19:56:28,800 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Maven Dependency Downloader'
+19:56:28,801 DEBUG ExampleExtractorTask:137 - Extracting the code examples
+19:56:29,300 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+19:56:29,300 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+19:56:29,302 DEBUG ExampleExtractor:87 - Building the ASTParser
+19:56:29,303 DEBUG ExampleExtractor:87 - Building the ASTParser
+19:56:29,812 DEBUG TasksController:145 - Task "Extraction of code examples from client DesktopClient" inserted in the pool.
+19:56:30,220 DEBUG ExampleExtractor:98 - Extacting examples from source files
+19:56:30,220 DEBUG ExampleExtractor:98 - Extacting examples from source files
+19:56:31,121 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/package-info.java
+19:56:31,155 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/MainWeb.java
+19:56:31,155 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/MainAndroid.java
+19:56:31,555 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/WebClient finished
+19:56:31,555 DEBUG ExampleExtractorTask:153 - Removing similar examples
+19:56:31,569 DEBUG ExampleExtractorTask:161 - Persisting client WebClient
+19:56:31,603 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/package-info.java
+19:56:31,604 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/AndroidClient finished
+19:56:31,604 DEBUG ExampleExtractorTask:153 - Removing similar examples
+19:56:31,609 DEBUG ExampleExtractorTask:161 - Persisting client AndroidClient
+19:56:31,811 DEBUG ExampleExtractorTask:88 - Downloading source files from repository
+19:56:31,822 DEBUG ExampleExtractorTask:121 - Building files using default builders
+19:56:31,918 DEBUG ExampleExtractorTask:126 - Using builder 'Android AAPT and AIDL Builder'
+19:56:31,921 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Android AAPT and AIDL Builder'
+19:56:31,922 DEBUG ExampleExtractorTask:126 - Using builder 'Maven Dependency Downloader'
+19:56:31,925 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Maven Dependency Downloader'
+19:56:31,926 DEBUG ExampleExtractorTask:137 - Extracting the code examples
+19:56:31,930 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+19:56:31,931 DEBUG ExampleExtractor:87 - Building the ASTParser
+19:56:31,952 DEBUG ExampleExtractor:98 - Extacting examples from source files
+19:56:32,042 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/package-info.java
+19:56:32,107 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/MainDesktop.java
+19:56:32,323 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/DesktopClient finished
+19:56:32,324 DEBUG ExampleExtractorTask:153 - Removing similar examples
+19:56:32,333 DEBUG ExampleExtractorTask:161 - Persisting client DesktopClient
+19:56:33,122  INFO TasksController:61 - Threads controller ended.
+19:56:33,128  INFO TasksControllerHook:18 - Shutdown Hook called
+19:56:33,128  INFO TasksController:61 - Threads controller ended.
+19:59:06,594 DEBUG TasksController:128 - ThreadExecuter started.
+19:59:06,594 DEBUG TasksController:81 - New Task added to the queue.
+19:59:06,603 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Nov 30, 2013 7:54:10 PM." inserted in the pool.
+19:59:07,377 DEBUG AssociationsRecommender:57 - Making recommended sets
+19:59:07,377 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+19:59:07,381 DEBUG AssociationsRecommender:57 - Making recommended sets
+19:59:07,381 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+19:59:07,385 DEBUG AssociationsRecommender:57 - Making recommended sets
+19:59:07,385 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+19:59:07,388 DEBUG AssociationsRecommender:57 - Making recommended sets
+19:59:07,388 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+19:59:07,407 DEBUG AssociationsRecommender:57 - Making recommended sets
+19:59:07,467 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+19:59:07,635  INFO TasksController:61 - Threads controller ended.
+19:59:07,638  INFO TasksControllerHook:18 - Shutdown Hook called
+19:59:07,639  INFO TasksController:61 - Threads controller ended.
+20:59:05,334 DEBUG TasksController:128 - ThreadExecuter started.
+20:59:05,334 DEBUG TasksController:81 - New Task added to the queue.
+20:59:05,345 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Nov 30, 2013 7:54:10 PM." inserted in the pool.
+21:00:09,311 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:00:15,894 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:01:33,535 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:01:36,429 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:01:53,584 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:01:53,585 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:01:55,598 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:01:55,599 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:02:38,124 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:02:45,953 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:07:24,867 DEBUG TasksController:128 - ThreadExecuter started.
+21:07:24,868 DEBUG TasksController:81 - New Task added to the queue.
+21:07:24,874 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Nov 30, 2013 7:54:10 PM." inserted in the pool.
+21:07:57,260 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:08:02,607 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:08:02,620 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:08:11,157 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:08:39,055 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:08:41,220 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:08:41,229 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:08:41,847 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:08:41,873 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:08:51,767 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:09:36,557 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:09:40,129 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:09:40,162 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:09:44,133 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:09:44,137 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:09:44,138 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:09:44,143 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:09:44,143 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:09:44,147 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:09:44,148 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:09:44,170 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:09:44,170 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:09:44,175 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:09:44,175 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:09:44,179 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:09:44,180 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:09:44,185 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:09:44,186 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:09:44,190 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:09:44,191 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:09:44,197 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:09:44,198 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:09:44,202 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:09:44,202 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:09:44,206 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:09:44,207 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:09:44,211 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:09:44,212 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:09:44,232 DEBUG AssociationsRecommender:57 - Making recommended sets
+21:09:44,259 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+21:10:14,900  INFO TasksController:61 - Threads controller ended.
+21:10:14,912  INFO TasksControllerHook:18 - Shutdown Hook called
+21:10:14,913  INFO TasksController:61 - Threads controller ended.
+23:40:12,002 DEBUG TasksController:128 - ThreadExecuter started.
+23:40:12,002 DEBUG TasksController:81 - New Task added to the queue.
+23:40:12,013 DEBUG TasksController:145 - Task "CBSoftAPI API analyze." inserted in the pool.
+23:40:17,817 DEBUG APIAnalyzer:129 - Analysing the source files on directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI
+23:40:18,903 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Credencial.java
+23:40:18,944 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Comunicador.java
+23:40:19,123 DEBUG APIAnalyzer:147 - Analyse of source code files in the directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI finished
+23:40:20,126  INFO TasksController:61 - Threads controller ended.
+23:40:20,129  INFO TasksControllerHook:18 - Shutdown Hook called
+23:40:20,130  INFO TasksController:61 - Threads controller ended.
+23:40:45,201 DEBUG TasksController:128 - ThreadExecuter started.
+23:40:45,201 DEBUG TasksController:81 - New Task added to the queue.
+23:40:45,208 DEBUG TasksController:145 - Task "WebClient analyze." inserted in the pool.
+23:40:46,607 DEBUG TasksController:81 - New Task added to the queue.
+23:40:46,611 DEBUG TasksController:81 - New Task added to the queue.
+23:40:47,210 DEBUG TasksController:145 - Task "AndroidClient analyze." inserted in the pool.
+23:40:47,211 DEBUG TasksController:145 - Task "DesktopClient analyze." inserted in the pool.
+23:40:47,754 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient
+23:40:47,754 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient
+23:40:48,647 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/package-info.java
+23:40:48,692 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/MainWeb.java
+23:40:48,693 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/MainAndroid.java
+23:40:48,973 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient were analyzed.
+23:40:49,018 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/package-info.java
+23:40:49,150 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient were analyzed.
+23:40:49,300 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient
+23:40:49,361 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/package-info.java
+23:40:49,411 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/MainDesktop.java
+23:40:49,661 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient were analyzed.
+23:40:50,664  INFO TasksController:61 - Threads controller ended.
+23:40:50,674  INFO TasksControllerHook:18 - Shutdown Hook called
+23:40:50,677  INFO TasksController:61 - Threads controller ended.
+23:41:02,223 DEBUG TasksController:81 - New Task added to the queue.
+23:41:02,223 DEBUG TasksController:128 - ThreadExecuter started.
+23:41:02,231 DEBUG TasksController:145 - Task "Task to mine association rules from source API" inserted in the pool.
+23:41:02,232 DEBUG AssociationRulesMine:55 - Mining association rules with algorithm weka.associations.FPGrowth
+23:41:06,244 DEBUG AssociationRulesMine:59 - Number of instances: 6
+23:41:06,244 DEBUG AssociationRulesMine:60 - Number of attributes: 3
+23:41:06,254 DEBUG AssociationRulesMine:80 - Building Associations with params: [-P, 2, -I, 4, -N, 2147483647, -T, 0, -C, 0.75, -D, 0.05, -U, 1.0, -M, 0.8333333333333333, -S]
+23:41:06,359 DEBUG AssociationRulesMine:93 - Build finished! Building model.
+23:41:06,362 DEBUG AssociationRulesMine:100 - Number of rules discovered: 12
+23:41:06,944 DEBUG AssociationRulesMine:118 - Persisting temporally the results.
+23:41:06,945 DEBUG AssociationRulesMine:164 - Progress [=         ] (10 remaining)
+23:41:06,946 DEBUG AssociationRulesMine:164 - Progress [==        ] (9 remaining)
+23:41:06,947 DEBUG AssociationRulesMine:164 - Progress [===       ] (8 remaining)
+23:41:06,948 DEBUG AssociationRulesMine:164 - Progress [====      ] (7 remaining)
+23:41:06,948 DEBUG AssociationRulesMine:164 - Progress [=====     ] (6 remaining)
+23:41:06,949 DEBUG AssociationRulesMine:164 - Progress [======    ] (5 remaining)
+23:41:06,953 DEBUG AssociationRulesMine:164 - Progress [=======   ] (4 remaining)
+23:41:06,954 DEBUG AssociationRulesMine:164 - Progress [========  ] (3 remaining)
+23:41:06,956 DEBUG AssociationRulesMine:164 - Progress [========= ] (2 remaining)
+23:41:06,957 DEBUG AssociationRulesMine:164 - Progress [==========] (1 remaining)
+23:41:07,110 DEBUG AssociationRulesMine:177 - Making permanent the persisted data.
+23:41:07,111 DEBUG AssociationRulesMine:180 - Asociation rules mining finished!
+23:41:07,234  INFO TasksController:61 - Threads controller ended.
+23:41:07,243  INFO TasksControllerHook:18 - Shutdown Hook called
+23:41:07,244  INFO TasksController:61 - Threads controller ended.
+23:41:20,999 DEBUG TasksController:128 - ThreadExecuter started.
+23:41:20,999 DEBUG TasksController:81 - New Task added to the queue.
+23:41:21,006 DEBUG TasksController:145 - Task "Extraction of code examples from client WebClient" inserted in the pool.
+23:41:23,607 DEBUG TasksController:81 - New Task added to the queue.
+23:41:23,609 DEBUG TasksController:81 - New Task added to the queue.
+23:41:23,639 DEBUG ExampleExtractorTask:88 - Downloading source files from repository
+23:41:23,641 DEBUG ExampleExtractorTask:121 - Building files using default builders
+23:41:24,011 DEBUG TasksController:145 - Task "Extraction of code examples from client AndroidClient" inserted in the pool.
+23:41:24,011 DEBUG TasksController:145 - Task "Extraction of code examples from client DesktopClient" inserted in the pool.
+23:41:24,015 DEBUG ExampleExtractorTask:88 - Downloading source files from repository
+23:41:24,017 DEBUG ExampleExtractorTask:121 - Building files using default builders
+23:41:24,226 DEBUG ExampleExtractorTask:126 - Using builder 'Maven Dependency Downloader'
+23:41:24,226 DEBUG ExampleExtractorTask:126 - Using builder 'Maven Dependency Downloader'
+23:41:24,227 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Maven Dependency Downloader'
+23:41:24,228 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Maven Dependency Downloader'
+23:41:24,228 DEBUG ExampleExtractorTask:126 - Using builder 'Android AAPT and AIDL Builder'
+23:41:24,228 DEBUG ExampleExtractorTask:126 - Using builder 'Android AAPT and AIDL Builder'
+23:41:24,234 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Android AAPT and AIDL Builder'
+23:41:24,234 DEBUG ExampleExtractorTask:137 - Extracting the code examples
+23:41:24,235 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Android AAPT and AIDL Builder'
+23:41:24,236 DEBUG ExampleExtractorTask:137 - Extracting the code examples
+23:41:24,722 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+23:41:24,722 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+23:41:24,725 DEBUG ExampleExtractor:87 - Building the ASTParser
+23:41:24,726 DEBUG ExampleExtractor:87 - Building the ASTParser
+23:41:25,493 DEBUG ExampleExtractor:98 - Extacting examples from source files
+23:41:25,497 DEBUG ExampleExtractor:98 - Extacting examples from source files
+23:41:26,376 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/package-info.java
+23:41:26,404 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/MainWeb.java
+23:41:26,404 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/MainAndroid.java
+23:41:26,761 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/WebClient finished
+23:41:26,763 DEBUG ExampleExtractorTask:153 - Removing similar examples
+23:41:26,771 DEBUG ExampleExtractorTask:161 - Persisting client WebClient
+23:41:26,817 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/package-info.java
+23:41:26,818 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/AndroidClient finished
+23:41:26,818 DEBUG ExampleExtractorTask:153 - Removing similar examples
+23:41:26,824 DEBUG ExampleExtractorTask:161 - Persisting client AndroidClient
+23:41:27,040 DEBUG ExampleExtractorTask:88 - Downloading source files from repository
+23:41:27,041 DEBUG ExampleExtractorTask:121 - Building files using default builders
+23:41:27,117 DEBUG ExampleExtractorTask:126 - Using builder 'Maven Dependency Downloader'
+23:41:27,119 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Maven Dependency Downloader'
+23:41:27,119 DEBUG ExampleExtractorTask:126 - Using builder 'Android AAPT and AIDL Builder'
+23:41:27,122 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Android AAPT and AIDL Builder'
+23:41:27,123 DEBUG ExampleExtractorTask:137 - Extracting the code examples
+23:41:27,126 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+23:41:27,128 DEBUG ExampleExtractor:87 - Building the ASTParser
+23:41:27,149 DEBUG ExampleExtractor:98 - Extacting examples from source files
+23:41:27,228 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/package-info.java
+23:41:27,292 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/MainDesktop.java
+23:41:27,495 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/DesktopClient finished
+23:41:27,495 DEBUG ExampleExtractorTask:153 - Removing similar examples
+23:41:27,501 DEBUG ExampleExtractorTask:161 - Persisting client DesktopClient
+23:41:28,613  INFO TasksController:61 - Threads controller ended.
+23:41:28,621  INFO TasksControllerHook:18 - Shutdown Hook called
+23:41:28,628  INFO TasksController:61 - Threads controller ended.
+23:41:50,172 DEBUG TasksController:128 - ThreadExecuter started.
+23:41:50,172 DEBUG TasksController:81 - New Task added to the queue.
+23:41:50,179 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Nov 30, 2013 11:41:06 PM." inserted in the pool.
+23:41:51,188  INFO TasksController:61 - Threads controller ended.
+23:41:51,353  INFO TasksControllerHook:18 - Shutdown Hook called
+23:41:51,359  INFO TasksController:61 - Threads controller ended.
+23:42:27,484 DEBUG TasksController:128 - ThreadExecuter started.
+23:42:27,484 DEBUG TasksController:81 - New Task added to the queue.
+23:42:27,490 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Nov 30, 2013 11:41:06 PM." inserted in the pool.
+23:47:06,170 DEBUG TasksController:128 - ThreadExecuter started.
+23:47:06,170 DEBUG TasksController:81 - New Task added to the queue.
+23:47:06,183 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Nov 30, 2013 11:41:06 PM." inserted in the pool.
+23:47:27,230  INFO TasksController:61 - Threads controller ended.
+23:47:27,247  INFO TasksControllerHook:18 - Shutdown Hook called
+23:47:27,249  INFO TasksController:61 - Threads controller ended.
+00:00:57,564  INFO TasksController:61 - Threads controller ended.
+00:00:57,564 DEBUG TasksController:128 - ThreadExecuter started.
+00:00:57,572 DEBUG TasksController:154 - ThreadExecuter finished.
+00:00:57,576  INFO TasksControllerHook:18 - Shutdown Hook called
+00:00:57,576  INFO TasksController:61 - Threads controller ended.
+00:19:50,374 DEBUG TasksController:128 - ThreadExecuter started.
+00:19:50,379 DEBUG TasksController:154 - ThreadExecuter finished.
+00:19:50,374  INFO TasksController:61 - Threads controller ended.
+00:19:50,389  INFO TasksControllerHook:18 - Shutdown Hook called
+00:19:50,390  INFO TasksController:61 - Threads controller ended.
+00:21:13,041 DEBUG TasksController:128 - ThreadExecuter started.
+00:21:13,041 DEBUG TasksController:81 - New Task added to the queue.
+00:21:13,052 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Nov 30, 2013 11:41:06 PM." inserted in the pool.
+00:21:35,076  INFO TasksController:61 - Threads controller ended.
+00:21:35,083  INFO TasksControllerHook:18 - Shutdown Hook called
+00:21:35,084  INFO TasksController:61 - Threads controller ended.
+00:28:44,542 DEBUG TasksController:81 - New Task added to the queue.
+00:28:44,542 DEBUG TasksController:128 - ThreadExecuter started.
+00:28:44,551 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Nov 30, 2013 11:41:06 PM." inserted in the pool.
+00:29:12,577  INFO TasksController:61 - Threads controller ended.
+00:29:12,583  INFO TasksControllerHook:18 - Shutdown Hook called
+00:29:12,584  INFO TasksController:61 - Threads controller ended.
+00:34:42,518 DEBUG TasksController:128 - ThreadExecuter started.
+00:34:42,518 DEBUG TasksController:81 - New Task added to the queue.
+00:34:42,526 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Nov 30, 2013 11:41:06 PM." inserted in the pool.
+00:38:52,586  INFO TasksController:61 - Threads controller ended.
+00:38:52,600  INFO TasksControllerHook:18 - Shutdown Hook called
+00:38:52,602  INFO TasksController:61 - Threads controller ended.
+00:41:18,679 DEBUG TasksController:128 - ThreadExecuter started.
+00:41:18,679 DEBUG TasksController:81 - New Task added to the queue.
+00:41:18,695 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Nov 30, 2013 11:41:06 PM." inserted in the pool.
+00:45:01,750  INFO TasksController:61 - Threads controller ended.
+00:45:01,755  INFO TasksControllerHook:18 - Shutdown Hook called
+00:45:01,756  INFO TasksController:61 - Threads controller ended.
+00:59:38,069 DEBUG TasksController:128 - ThreadExecuter started.
+00:59:38,070 DEBUG TasksController:81 - New Task added to the queue.
+00:59:38,079 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Nov 30, 2013 11:41:06 PM." inserted in the pool.
+00:59:38,703 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,703 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,706 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,707 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,711 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,712 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,714 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,715 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,732 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,765 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,768 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,769 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,772 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,778 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,782 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,783 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,786 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,786 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,789 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,789 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,816 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,817 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,821 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,821 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,825 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,826 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,830 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,830 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,851 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,879 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,882 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,882 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,901 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,925 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,930 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,930 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,935 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,936 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:38,940 DEBUG AssociationsRecommender:57 - Making recommended sets
+00:59:38,941 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+00:59:41,082  INFO TasksController:61 - Threads controller ended.
+00:59:41,085  INFO TasksControllerHook:18 - Shutdown Hook called
+00:59:41,086  INFO TasksController:61 - Threads controller ended.
+01:04:00,765 DEBUG TasksController:128 - ThreadExecuter started.
+01:04:00,765 DEBUG TasksController:81 - New Task added to the queue.
+01:04:00,773 DEBUG TasksController:145 - Task "API examples recommender" inserted in the pool.
+01:04:05,789  INFO TasksController:61 - Threads controller ended.
+01:04:05,793  INFO TasksControllerHook:18 - Shutdown Hook called
+01:04:05,794  INFO TasksController:61 - Threads controller ended.
+01:05:18,420 DEBUG TasksController:81 - New Task added to the queue.
+01:05:18,420 DEBUG TasksController:128 - ThreadExecuter started.
+01:05:18,429 DEBUG TasksController:145 - Task "API examples recommender" inserted in the pool.
+01:05:25,450  INFO TasksController:61 - Threads controller ended.
+01:05:25,456  INFO TasksControllerHook:18 - Shutdown Hook called
+01:05:25,457  INFO TasksController:61 - Threads controller ended.
+01:11:52,509 DEBUG TasksController:128 - ThreadExecuter started.
+01:11:52,509 DEBUG TasksController:81 - New Task added to the queue.
+01:11:52,521 DEBUG TasksController:145 - Task "API examples recommender" inserted in the pool.
+01:12:13,544  INFO TasksController:61 - Threads controller ended.
+01:12:13,552  INFO TasksControllerHook:18 - Shutdown Hook called
+01:12:13,553  INFO TasksController:61 - Threads controller ended.
+01:12:43,256 DEBUG TasksController:128 - ThreadExecuter started.
+01:12:43,256 DEBUG TasksController:81 - New Task added to the queue.
+01:12:43,264 DEBUG TasksController:145 - Task "API examples recommender" inserted in the pool.
+01:14:53,304  INFO TasksController:61 - Threads controller ended.
+01:14:53,313  INFO TasksControllerHook:18 - Shutdown Hook called
+01:14:53,315  INFO TasksController:61 - Threads controller ended.
+01:16:19,743 DEBUG TasksController:128 - ThreadExecuter started.
+01:16:19,743 DEBUG TasksController:81 - New Task added to the queue.
+01:16:19,753 DEBUG TasksController:145 - Task "API examples recommender" inserted in the pool.
+01:16:35,784  INFO TasksController:61 - Threads controller ended.
+01:16:35,792  INFO TasksControllerHook:18 - Shutdown Hook called
+01:16:35,793  INFO TasksController:61 - Threads controller ended.
+01:18:57,524 DEBUG TasksController:128 - ThreadExecuter started.
+01:18:57,524 DEBUG TasksController:81 - New Task added to the queue.
+01:18:57,537 DEBUG TasksController:145 - Task "API examples recommender" inserted in the pool.
+01:19:46,556  INFO TasksController:61 - Threads controller ended.
+01:19:46,566  INFO TasksControllerHook:18 - Shutdown Hook called
+01:19:46,566  INFO TasksController:61 - Threads controller ended.
+01:28:35,988 DEBUG TasksController:128 - ThreadExecuter started.
+01:28:35,988 DEBUG TasksController:81 - New Task added to the queue.
+01:28:35,997 DEBUG TasksController:145 - Task "CBSoftAPI API analyze." inserted in the pool.
+01:28:42,186 DEBUG APIAnalyzer:129 - Analysing the source files on directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI
+01:28:43,286 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Credencial.java
+01:28:43,330 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Comunicador.java
+01:28:43,519 DEBUG APIAnalyzer:147 - Analyse of source code files in the directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI finished
+01:28:44,010  INFO TasksController:61 - Threads controller ended.
+01:28:44,019  INFO TasksControllerHook:18 - Shutdown Hook called
+01:28:44,020  INFO TasksController:61 - Threads controller ended.
+01:28:56,502 DEBUG TasksController:128 - ThreadExecuter started.
+01:28:56,502 DEBUG TasksController:81 - New Task added to the queue.
+01:28:56,510 DEBUG TasksController:145 - Task "WebClient analyze." inserted in the pool.
+01:28:57,926 DEBUG TasksController:81 - New Task added to the queue.
+01:28:57,928 DEBUG TasksController:81 - New Task added to the queue.
+01:28:58,511 DEBUG TasksController:145 - Task "AndroidClient analyze." inserted in the pool.
+01:28:58,512 DEBUG TasksController:145 - Task "DesktopClient analyze." inserted in the pool.
+01:28:59,063 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient
+01:28:59,063 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient
+01:29:00,008 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/package-info.java
+01:29:00,039 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/MainAndroid.java
+01:29:00,039 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/MainWeb.java
+01:29:00,348 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient were analyzed.
+01:29:00,381 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/package-info.java
+01:29:00,507 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient were analyzed.
+01:29:00,651 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient
+01:29:00,730 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/package-info.java
+01:29:00,781 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/MainDesktop.java
+01:29:01,010 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient were analyzed.
+01:29:02,013  INFO TasksController:61 - Threads controller ended.
+01:29:02,021  INFO TasksControllerHook:18 - Shutdown Hook called
+01:29:02,025  INFO TasksController:61 - Threads controller ended.
+01:29:09,770 DEBUG TasksController:81 - New Task added to the queue.
+01:29:09,770 DEBUG TasksController:128 - ThreadExecuter started.
+01:29:09,778 DEBUG TasksController:145 - Task "Task to mine association rules from source API" inserted in the pool.
+01:29:09,778 DEBUG AssociationRulesMine:55 - Mining association rules with algorithm weka.associations.FPGrowth
+01:29:13,714 DEBUG AssociationRulesMine:59 - Number of instances: 6
+01:29:13,714 DEBUG AssociationRulesMine:60 - Number of attributes: 3
+01:29:13,725 DEBUG AssociationRulesMine:80 - Building Associations with params: [-P, 2, -I, 4, -N, 2147483647, -T, 0, -C, 0.75, -D, 0.05, -U, 1.0, -M, 0.8333333333333333, -S]
+01:29:14,021 DEBUG AssociationRulesMine:93 - Build finished! Building model.
+01:29:14,026 DEBUG AssociationRulesMine:100 - Number of rules discovered: 12
+01:29:14,541 DEBUG AssociationRulesMine:118 - Persisting temporally the results.
+01:29:14,542 DEBUG AssociationRulesMine:164 - Progress [=         ] (10 remaining)
+01:29:14,543 DEBUG AssociationRulesMine:164 - Progress [==        ] (9 remaining)
+01:29:14,544 DEBUG AssociationRulesMine:164 - Progress [===       ] (8 remaining)
+01:29:14,545 DEBUG AssociationRulesMine:164 - Progress [====      ] (7 remaining)
+01:29:14,546 DEBUG AssociationRulesMine:164 - Progress [=====     ] (6 remaining)
+01:29:14,546 DEBUG AssociationRulesMine:164 - Progress [======    ] (5 remaining)
+01:29:14,551 DEBUG AssociationRulesMine:164 - Progress [=======   ] (4 remaining)
+01:29:14,552 DEBUG AssociationRulesMine:164 - Progress [========  ] (3 remaining)
+01:29:14,554 DEBUG AssociationRulesMine:164 - Progress [========= ] (2 remaining)
+01:29:14,555 DEBUG AssociationRulesMine:164 - Progress [==========] (1 remaining)
+01:29:14,708 DEBUG AssociationRulesMine:177 - Making permanent the persisted data.
+01:29:14,708 DEBUG AssociationRulesMine:180 - Asociation rules mining finished!
+01:29:14,934  INFO TasksController:61 - Threads controller ended.
+01:29:14,940  INFO TasksControllerHook:18 - Shutdown Hook called
+01:29:14,940  INFO TasksController:61 - Threads controller ended.
+01:29:29,175 DEBUG TasksController:128 - ThreadExecuter started.
+01:29:29,175 DEBUG TasksController:81 - New Task added to the queue.
+01:29:29,183 DEBUG TasksController:145 - Task "Extraction of code examples from client WebClient" inserted in the pool.
+01:29:29,187 DEBUG TasksController:81 - New Task added to the queue.
+01:29:30,185 DEBUG TasksController:145 - Task "Extraction of code examples from client AndroidClient" inserted in the pool.
+01:29:32,450 DEBUG TasksController:81 - New Task added to the queue.
+01:29:32,478 DEBUG ExampleExtractorTask:88 - Downloading source files from repository
+01:29:32,481 DEBUG ExampleExtractorTask:88 - Downloading source files from repository
+01:29:32,483 DEBUG ExampleExtractorTask:121 - Building files using default builders
+01:29:32,483 DEBUG ExampleExtractorTask:121 - Building files using default builders
+01:29:33,124 DEBUG ExampleExtractorTask:126 - Using builder 'Android AAPT and AIDL Builder'
+01:29:33,124 DEBUG ExampleExtractorTask:126 - Using builder 'Android AAPT and AIDL Builder'
+01:29:33,127 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Android AAPT and AIDL Builder'
+01:29:33,128 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Android AAPT and AIDL Builder'
+01:29:33,128 DEBUG ExampleExtractorTask:126 - Using builder 'Maven Dependency Downloader'
+01:29:33,128 DEBUG ExampleExtractorTask:126 - Using builder 'Maven Dependency Downloader'
+01:29:33,130 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Maven Dependency Downloader'
+01:29:33,133 DEBUG ExampleExtractorTask:137 - Extracting the code examples
+01:29:33,134 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Maven Dependency Downloader'
+01:29:33,134 DEBUG ExampleExtractorTask:137 - Extracting the code examples
+01:29:33,186 DEBUG TasksController:145 - Task "Extraction of code examples from client DesktopClient" inserted in the pool.
+01:29:33,626 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+01:29:33,626 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+01:29:33,629 DEBUG ExampleExtractor:87 - Building the ASTParser
+01:29:33,629 DEBUG ExampleExtractor:87 - Building the ASTParser
+01:29:34,316 DEBUG ExampleExtractor:98 - Extacting examples from source files
+01:29:34,316 DEBUG ExampleExtractor:98 - Extacting examples from source files
+01:29:35,229 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/package-info.java
+01:29:35,259 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/MainAndroid.java
+01:29:35,259 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/MainWeb.java
+01:29:35,562 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/WebClient finished
+01:29:35,563 DEBUG ExampleExtractorTask:153 - Removing similar examples
+01:29:35,570 DEBUG ExampleExtractorTask:161 - Persisting client WebClient
+01:29:35,610 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/package-info.java
+01:29:35,612 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/AndroidClient finished
+01:29:35,612 DEBUG ExampleExtractorTask:153 - Removing similar examples
+01:29:35,619 DEBUG ExampleExtractorTask:161 - Persisting client AndroidClient
+01:29:35,830 DEBUG ExampleExtractorTask:88 - Downloading source files from repository
+01:29:35,832 DEBUG ExampleExtractorTask:121 - Building files using default builders
+01:29:35,931 DEBUG ExampleExtractorTask:126 - Using builder 'Android AAPT and AIDL Builder'
+01:29:35,935 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Android AAPT and AIDL Builder'
+01:29:35,935 DEBUG ExampleExtractorTask:126 - Using builder 'Maven Dependency Downloader'
+01:29:35,937 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Maven Dependency Downloader'
+01:29:35,937 DEBUG ExampleExtractorTask:137 - Extracting the code examples
+01:29:35,943 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+01:29:35,945 DEBUG ExampleExtractor:87 - Building the ASTParser
+01:29:35,968 DEBUG ExampleExtractor:98 - Extacting examples from source files
+01:29:36,056 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/package-info.java
+01:29:36,107 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/MainDesktop.java
+01:29:36,339 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/DesktopClient finished
+01:29:36,339 DEBUG ExampleExtractorTask:153 - Removing similar examples
+01:29:36,347 DEBUG ExampleExtractorTask:161 - Persisting client DesktopClient
+01:29:37,454  INFO TasksController:61 - Threads controller ended.
+01:29:37,459  INFO TasksControllerHook:18 - Shutdown Hook called
+01:29:37,461  INFO TasksController:61 - Threads controller ended.
+01:29:54,798 DEBUG TasksController:128 - ThreadExecuter started.
+01:29:54,798 DEBUG TasksController:81 - New Task added to the queue.
+01:29:54,805 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Dec 1, 2013 1:29:14 AM." inserted in the pool.
+01:29:55,650 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,650 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,656 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,656 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,679 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,712 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,717 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,717 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,721 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,721 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,724 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,724 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,727 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,731 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,750 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,779 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,783 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,784 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,788 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,789 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,826 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,851 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,855 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,856 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,860 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,860 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,864 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,865 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,869 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,869 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,874 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,874 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,877 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,877 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,879 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,880 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,882 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,883 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:55,885 DEBUG AssociationsRecommender:57 - Making recommended sets
+01:29:55,886 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+01:29:57,811  INFO TasksController:61 - Threads controller ended.
+01:29:57,815  INFO TasksControllerHook:18 - Shutdown Hook called
+01:29:57,819  INFO TasksController:61 - Threads controller ended.
+01:30:04,148 DEBUG TasksController:81 - New Task added to the queue.
+01:30:04,148 DEBUG TasksController:128 - ThreadExecuter started.
+01:30:04,158 DEBUG TasksController:145 - Task "API examples recommender" inserted in the pool.
+01:30:10,159  INFO TasksController:61 - Threads controller ended.
+01:30:10,159 DEBUG TasksController:154 - ThreadExecuter finished.
+01:30:10,167  INFO TasksControllerHook:18 - Shutdown Hook called
+01:30:10,168  INFO TasksController:61 - Threads controller ended.
+16:32:23,751 DEBUG TasksController:81 - New Task added to the queue.
+16:32:23,751 DEBUG TasksController:128 - ThreadExecuter started.
+16:32:23,776 DEBUG TasksController:145 - Task "CBSoftAPI API analyze." inserted in the pool.
+16:32:34,826 DEBUG APIAnalyzer:129 - Analysing the source files on directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI
+16:32:36,117 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Credencial.java
+16:32:36,161 DEBUG APIAnalyzer:133 - Analysing source file: /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI/src/br/unb/cbsoft2013/Comunicador.java
+16:32:36,309 DEBUG APIAnalyzer:147 - Analyse of source code files in the directory /home/hudson/Documents/APIMINER2-TESTS/CBSoftAPI finished
+16:32:37,779  INFO TasksController:61 - Threads controller ended.
+16:32:37,790  INFO TasksControllerHook:18 - Shutdown Hook called
+16:32:37,791  INFO TasksController:61 - Threads controller ended.
+16:33:43,113 DEBUG TasksController:128 - ThreadExecuter started.
+16:33:43,113 DEBUG TasksController:81 - New Task added to the queue.
+16:33:43,118 DEBUG TasksController:145 - Task "WebClient analyze." inserted in the pool.
+16:33:44,500 DEBUG TasksController:81 - New Task added to the queue.
+16:33:44,503 DEBUG TasksController:81 - New Task added to the queue.
+16:33:45,120 DEBUG TasksController:145 - Task "AndroidClient analyze." inserted in the pool.
+16:33:45,121 DEBUG TasksController:145 - Task "DesktopClient analyze." inserted in the pool.
+16:33:45,559 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient
+16:33:45,559 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient
+16:33:46,432 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/package-info.java
+16:33:46,459 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/MainAndroid.java
+16:33:46,459 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/MainWeb.java
+16:33:46,705 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/WebClient were analyzed.
+16:33:46,739 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/package-info.java
+16:33:46,861 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/AndroidClient were analyzed.
+16:33:47,217 DEBUG ClientAnalyzer:109 - Analyzing the source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient
+16:33:47,348 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/package-info.java
+16:33:47,381 DEBUG ClientAnalyzer:114 - Analyzing the source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/MainDesktop.java
+16:33:47,596 DEBUG ClientAnalyzer:128 - The source files in the directory /home/hudson/Documents/APIMINER2-TESTS/DesktopClient were analyzed.
+16:33:48,599  INFO TasksController:61 - Threads controller ended.
+16:33:48,603  INFO TasksControllerHook:18 - Shutdown Hook called
+16:33:48,603  INFO TasksController:61 - Threads controller ended.
+16:35:44,362 DEBUG TasksController:128 - ThreadExecuter started.
+16:35:44,362 DEBUG TasksController:81 - New Task added to the queue.
+16:35:44,369 DEBUG AssociationRulesMine:55 - Mining association rules with algorithm weka.associations.FPGrowth
+16:35:44,369 DEBUG TasksController:145 - Task "Task to mine association rules from source API" inserted in the pool.
+16:35:47,688 DEBUG AssociationRulesMine:59 - Number of instances: 6
+16:35:47,688 DEBUG AssociationRulesMine:60 - Number of attributes: 3
+16:35:47,696 DEBUG AssociationRulesMine:80 - Building Associations with params: [-P, 2, -I, 4, -N, 2147483647, -T, 0, -C, 0.75, -D, 0.05, -U, 1.0, -M, 0.8333333333333333, -S]
+16:35:47,876 DEBUG AssociationRulesMine:93 - Build finished! Building model.
+16:35:47,969 DEBUG AssociationRulesMine:100 - Number of rules discovered: 12
+16:35:48,444 DEBUG AssociationRulesMine:118 - Persisting temporally the results.
+16:35:48,445 DEBUG AssociationRulesMine:164 - Progress [=         ] (10 remaining)
+16:35:48,445 DEBUG AssociationRulesMine:164 - Progress [==        ] (9 remaining)
+16:35:48,446 DEBUG AssociationRulesMine:164 - Progress [===       ] (8 remaining)
+16:35:48,446 DEBUG AssociationRulesMine:164 - Progress [====      ] (7 remaining)
+16:35:48,447 DEBUG AssociationRulesMine:164 - Progress [=====     ] (6 remaining)
+16:35:48,447 DEBUG AssociationRulesMine:164 - Progress [======    ] (5 remaining)
+16:35:48,451 DEBUG AssociationRulesMine:164 - Progress [=======   ] (4 remaining)
+16:35:48,452 DEBUG AssociationRulesMine:164 - Progress [========  ] (3 remaining)
+16:35:48,453 DEBUG AssociationRulesMine:164 - Progress [========= ] (2 remaining)
+16:35:48,454 DEBUG AssociationRulesMine:164 - Progress [==========] (1 remaining)
+16:35:48,614 DEBUG AssociationRulesMine:177 - Making permanent the persisted data.
+16:35:48,614 DEBUG AssociationRulesMine:180 - Asociation rules mining finished!
+16:35:49,373  INFO TasksController:61 - Threads controller ended.
+16:35:49,383  INFO TasksControllerHook:18 - Shutdown Hook called
+16:35:49,384  INFO TasksController:61 - Threads controller ended.
+16:40:09,139 DEBUG TasksController:128 - ThreadExecuter started.
+16:40:09,139 DEBUG TasksController:81 - New Task added to the queue.
+16:40:09,147 DEBUG TasksController:145 - Task "Task to derive recommendations of patterns mined on Feb 13, 2014 4:35:48 PM." inserted in the pool.
+16:40:09,658 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:09,678 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:09,988 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:09,989 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:09,995 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:09,995 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:09,998 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:09,999 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:10,013 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:10,152 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:10,155 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:10,155 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:10,158 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:10,162 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:10,166 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:10,167 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:10,170 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:10,171 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:10,174 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:10,174 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:10,193 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:10,194 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:10,199 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:10,200 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:10,229 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:10,245 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:10,247 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:10,247 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:10,250 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:10,250 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:10,253 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:10,254 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:10,256 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:10,257 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:10,261 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:10,262 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:10,266 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:10,267 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:10,288 DEBUG AssociationsRecommender:57 - Making recommended sets
+16:40:10,324 DEBUG AssociationsRecommender:67 - Ordering the recommended sets
+16:40:13,150  INFO TasksController:61 - Threads controller ended.
+16:40:13,157  INFO TasksControllerHook:18 - Shutdown Hook called
+16:40:13,158  INFO TasksController:61 - Threads controller ended.
+16:46:28,323 DEBUG TasksController:128 - ThreadExecuter started.
+16:46:28,323 DEBUG TasksController:81 - New Task added to the queue.
+16:46:28,330 DEBUG TasksController:145 - Task "Extraction of code examples from client WebClient" inserted in the pool.
+16:46:29,366 DEBUG TasksController:81 - New Task added to the queue.
+16:46:29,370 DEBUG TasksController:81 - New Task added to the queue.
+16:46:29,379 DEBUG ExampleExtractorTask:88 - Downloading source files from repository
+16:46:29,380 DEBUG ExampleExtractorTask:121 - Building files using default builders
+16:46:29,764 DEBUG ExampleExtractorTask:126 - Using builder 'Maven Dependency Downloader'
+16:46:29,764 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Maven Dependency Downloader'
+16:46:29,765 DEBUG ExampleExtractorTask:126 - Using builder 'Android AAPT and AIDL Builder'
+16:46:29,766 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Android AAPT and AIDL Builder'
+16:46:29,767 DEBUG ExampleExtractorTask:137 - Extracting the code examples
+16:46:30,084 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+16:46:30,086 DEBUG ExampleExtractor:87 - Building the ASTParser
+16:46:30,331 DEBUG TasksController:145 - Task "Extraction of code examples from client AndroidClient" inserted in the pool.
+16:46:30,333 DEBUG TasksController:145 - Task "Extraction of code examples from client DesktopClient" inserted in the pool.
+16:46:30,631 DEBUG ExampleExtractorTask:88 - Downloading source files from repository
+16:46:30,635 DEBUG ExampleExtractorTask:121 - Building files using default builders
+16:46:30,724 DEBUG ExampleExtractorTask:126 - Using builder 'Maven Dependency Downloader'
+16:46:30,726 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Maven Dependency Downloader'
+16:46:30,727 DEBUG ExampleExtractorTask:126 - Using builder 'Android AAPT and AIDL Builder'
+16:46:30,730 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Android AAPT and AIDL Builder'
+16:46:30,731 DEBUG ExampleExtractorTask:137 - Extracting the code examples
+16:46:30,736 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+16:46:30,739 DEBUG ExampleExtractor:87 - Building the ASTParser
+16:46:30,813 DEBUG ExampleExtractor:98 - Extacting examples from source files
+16:46:30,813 DEBUG ExampleExtractor:98 - Extacting examples from source files
+16:46:31,516 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/package-info.java
+16:46:31,541 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/MainAndroid.java
+16:46:31,541 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/WebClient/src/br/unb/cbsoft2013/web/MainWeb.java
+16:46:31,883 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/WebClient finished
+16:46:31,901 DEBUG ExampleExtractorTask:153 - Removing similar examples
+16:46:31,907 DEBUG ExampleExtractorTask:161 - Persisting client WebClient
+16:46:31,953 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/AndroidClient/src/br/unb/cbsoft2013/android/package-info.java
+16:46:31,957 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/AndroidClient finished
+16:46:31,957 DEBUG ExampleExtractorTask:153 - Removing similar examples
+16:46:31,963 DEBUG ExampleExtractorTask:161 - Persisting client AndroidClient
+16:46:32,189 DEBUG ExampleExtractorTask:88 - Downloading source files from repository
+16:46:32,190 DEBUG ExampleExtractorTask:121 - Building files using default builders
+16:46:32,286 DEBUG ExampleExtractorTask:126 - Using builder 'Maven Dependency Downloader'
+16:46:32,287 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Maven Dependency Downloader'
+16:46:32,288 DEBUG ExampleExtractorTask:126 - Using builder 'Android AAPT and AIDL Builder'
+16:46:32,291 DEBUG ExampleExtractorTask:128 - Sucess on build with 'Android AAPT and AIDL Builder'
+16:46:32,292 DEBUG ExampleExtractorTask:137 - Extracting the code examples
+16:46:32,294 DEBUG ExampleExtractor:84 - Setting up the properties of the parser
+16:46:32,295 DEBUG ExampleExtractor:87 - Building the ASTParser
+16:46:32,321 DEBUG ExampleExtractor:98 - Extacting examples from source files
+16:46:32,375 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/package-info.java
+16:46:32,430 DEBUG ExampleExtractor:93 - Extracting from source file: /home/hudson/Documents/APIMINER2-TESTS/DesktopClient/src/br/unb/cbsoft2013/desktop/MainDesktop.java
+16:46:32,651 DEBUG ExampleExtractor:105 - Extraction of examples process /home/hudson/Documents/APIMINER2-TESTS/DesktopClient finished
+16:46:32,651 DEBUG ExampleExtractorTask:153 - Removing similar examples
+16:46:32,656 DEBUG ExampleExtractorTask:161 - Persisting client DesktopClient
+16:46:33,374  INFO TasksController:61 - Threads controller ended.
+16:46:33,383  INFO TasksControllerHook:18 - Shutdown Hook called
+16:46:33,384  INFO TasksController:61 - Threads controller ended.
+16:47:25,769 DEBUG TasksController:128 - ThreadExecuter started.
+16:47:25,769 DEBUG TasksController:81 - New Task added to the queue.
+16:47:25,774 DEBUG TasksController:145 - Task "API examples recommender" inserted in the pool.
+16:47:31,781  INFO TasksController:61 - Threads controller ended.
+16:47:31,784  INFO TasksControllerHook:18 - Shutdown Hook called
+16:47:31,785  INFO TasksController:61 - Threads controller ended.
